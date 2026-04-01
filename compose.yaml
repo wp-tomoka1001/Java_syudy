@@ -1,0 +1,7 @@
+services:
+  app:
+    image: mcr.microsoft.com/openjdk/jdk:21-ubuntu
+    volumes:
+      - .:/app
+    working_dir: /app
+
