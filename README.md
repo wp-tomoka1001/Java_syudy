@@ -14,3 +14,5 @@
 - 「chapter9 さまざまなクラス機構」　終了　p346
 - 「chapter10 継承」　終了　p380
 - 「chapter11 高度な継承」　終了　p431
+- 「chapter12 多態性」　終了　p463
+- 「chapter13 カプセル化」　途中　p486
