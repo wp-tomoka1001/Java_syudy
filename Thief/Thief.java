@@ -1,5 +1,5 @@
 // 練習9-1
-package Thief;
+package thief;
 
 public class Thief {
     String name;

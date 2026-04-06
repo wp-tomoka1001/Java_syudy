@@ -1,5 +1,5 @@
 // 練習9-2
-package Thief;
+package thief;
 
 public class Main {
     public static void heal(int hp) {
