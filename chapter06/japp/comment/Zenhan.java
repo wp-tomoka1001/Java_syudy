@@ -1,4 +1,4 @@
-package japp.comment;
+package chapter06.japp.comment;
 
 public class Zenhan {
     public static void doWarusa() {
